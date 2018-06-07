@@ -172,3 +172,9 @@ And the best parameters of the above grid search is:
 ```
 {'min_samples_leaf': 5, 'n_estimators': 100}
 ```
+
+## Sources
+
+- https://www.kaggle.com/c/home-credit-default-risk
+- https://en.wikipedia.org/wiki/Receiver_operating_characteristic
+- https://lightgbm.readthedocs.io/en/latest/
